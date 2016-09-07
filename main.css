@@ -1,0 +1,15 @@
+div {
+	border: 10px solid yellow;
+	width: 200px;
+	padding: 20px 40px;
+}
+.arriba {
+	text-align: center;
+	height: 150px;
+}
+
+.abajo {
+	text-align: left;
+	margin-top: 50px;
+	margin-left: 500px;
+}
